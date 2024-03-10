@@ -1,10 +1,10 @@
 # Wordbank README
 
 ## Description
-This repository contains a wordbank consisting of over 20,000 unique words. The list was compiled from various sources found online, with curation to exclude offensive language, proper nouns, drug references, and sexual terms. The intention behind this wordbank is to encompass the most common words in the English language, making it suitable for various natural language processing tasks.
+This repository contains a wordbank consisting of over 25,000 unique words. The list was compiled from various sources found online, with curation to exclude offensive language, proper nouns, drug references, and sexual terms. The intention behind this wordbank is to encompass the most common words in the English language, making it suitable for various natural language processing tasks.
 
 ## Sources
-The wordbank was constructed by combining multiple word lists found online. One of the primary sources used was a public list of words used in Scribblenauts.
+The wordbank was constructed by combining multiple word lists found online. One of the primary sources used was a list of words used in Scribblenauts.
 
 ## Usage
 This wordbank can be utilized for a multitude of applications, including but not limited to:
